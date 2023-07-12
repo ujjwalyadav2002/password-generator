@@ -13,9 +13,14 @@
 <hr>
 <h3><b>Features</b></h3>
 
-<p>• Password-generator implemented using HTML, CSS, and JavaScript is to generate strong, unique, and secure passwords automatically.<br> The generator should create passwords that are difficult to guess, enhancing the overall security of user accounts.
-<br>• Password strength indicator: Evaluate the generated password’s complexity and display a visual indicator (e.g., weak, strong) to help users assess its strength.<br>
-• Utilized responsive design to ensure compatibility across all devices</p>
+<ul>
+ <li>Password-generator implemented using HTML, CSS, and JavaScript is to generate strong, unique, and secure passwords automatically.</li>
+ <li>The generator should create passwords that are difficult to guess, enhancing the overall security of user accounts.</li>
+ <li>Password strength indicator: Evaluate the generated password’s complexity and display a visual indicator (e.g., weak, strong) to help users assess its strength.</li>
+ <li>Utilized responsive design to ensure compatibility across all devices.</li>
+</ul>
+
+
 
 
 <hr>
